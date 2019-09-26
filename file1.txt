@@ -3,3 +3,5 @@ change in master
 change in develop
 
 change in develop after merge
+
+File changes in develop file1 before pull request
