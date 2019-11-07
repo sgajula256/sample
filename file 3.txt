@@ -1,1 +1,3 @@
 file3 changes in master
+
+file3 changes in develop
